@@ -16,7 +16,7 @@ export const bangs = [
     r: 0,
     s: "LibreChat",
     sc: "AI",
-    t: "libre",
+    t: "ai",
     u: "https://ai.548b.ru/c/new?prompt={{{s}}}&submit=true",
   },
   {
