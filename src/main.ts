@@ -12,7 +12,7 @@ function noSearchDefaultPageRender() {
           <input 
             type="text" 
             class="url-input"
-            value="https://unduck.link?q=%s"
+            value="https://find.2taras.site?q=%s"
             readonly 
           />
           <button class="copy-button">

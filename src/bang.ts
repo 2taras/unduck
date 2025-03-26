@@ -11,6 +11,15 @@ export const bangs = [
     u: "https://www.t3.chat/new?q={{{s}}}",
   },
   {
+    c: "AI",
+    d: "ai.548b.ru",
+    r: 0,
+    s: "LibreChat",
+    sc: "AI",
+    t: "libre",
+    u: "https://ai.548b.ru/c/new?prompt={{{s}}}&submit=true",
+  },
+  {
     c: "Tech",
     d: "www.01net.com",
     r: 4,
@@ -3177,15 +3186,6 @@ export const bangs = [
     sc: "Reference",
     t: "aitopics",
     u: "https://aitopics.org/search?q={{{s}}}",
-  },
-  {
-    c: "Research",
-    d: "www.duckduckgo.com",
-    r: 8351,
-    s: "Duck.ai",
-    sc: "Reference",
-    t: "ai",
-    u: "https://www.duckduckgo.com/?q={{{s}}}&ia=chat&bang=true ",
   },
   {
     c: "News",
